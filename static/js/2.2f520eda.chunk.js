@@ -1,0 +1,2 @@
+webpackJsonp([2],{348:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=n(0),o=n.n(a),r=n(1),u=n.n(r),c=function(e){var t=e.location;return o.a.createElement("p",null,"Page not found - the path, ",o.a.createElement("b",null,t.pathname),", did not match any React Router routes.")};c.propTypes={location:u.a.string},t.default=c}});
+//# sourceMappingURL=2.2f520eda.chunk.js.map
